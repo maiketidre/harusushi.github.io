@@ -17,7 +17,7 @@ html {
     }
 
 body {
-    background-image: linear-gradient(rgba(175, 142, 142, 0.596), rgba(175, 142, 142, 0.596)) ,url(./fundo7.jpg);
+    background-image: linear-gradient(rgba(175, 142, 142, 0.596), rgba(175, 142, 142, 0.596)) ,url(./fundo.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
